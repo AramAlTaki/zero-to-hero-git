@@ -1,1 +1,2 @@
 This is the contents of A.txt
+This is a new line of changes in a.txt
